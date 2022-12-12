@@ -1,7 +1,8 @@
-# PC2_Tugas3_nim
-### Nama
-### PC 2
+# PC5_UAS_201401088
+### Muhammad Thaufan Delviyoga Prakasa
+### PC 5
 
 
-###### Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
+
 > Screenshot tampilan dimasukkan dalam readme
+![UAS PC5](https://user-images.githubusercontent.com/77445263/207085525-5690c009-cc52-4716-8861-a09a68cf82ac.png)
